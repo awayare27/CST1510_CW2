@@ -1,0 +1,501 @@
+time,place,mag,mag_type,significance,tsunami
+1795437726050,"53 km SSE of Kokhanok, Alaska",2.6,ml,104,0
+1795437122398,"21 km NNW of Midland, Texas",2.7,mb_lg,112,0
+1795435069080,"13 km SW of Newport Beach, CA",3.24,ml,308,0
+1795434613383,"52 km ENE of Shaktoolik, Alaska",3.3,ml,168,0
+1795434440110,"3 km S of Lima, Montana",2.64,ml,107,0
+1795433071100,"209 km SSE of Tobi Village, Palau",4.8,mb,354,0
+1795430366056,"30 km SW of Finschhafen, Papua New Guinea",4.6,mb,326,0
+1795430360320,"52 km SW of Tyrma, Russia",4.7,mb,340,0
+1795428066780,"9 km NW of Pinnacles, CA",2.91,md,131,0
+1795426510713,Vanuatu region,4.5,mb,312,0
+1795425964753,"58 km WNW of Akhiok, Alaska",2.6,ml,104,0
+1795425319927,"60 km WNW of Akhiok, Alaska",2.6,ml,104,0
+1795425086948,Fiji region,4.3,mb,284,0
+1795424778292,"7 km SSW of Elmendorf Air Force Base, Alaska",2.7,ml,113,0
+1795421865860,"65 km ENE of Ouzinkie, Alaska",3.1,ml,148,0
+1795420886457,west of Macquarie Island,5.5,mww,465,0
+1795420579140,"1 km SSE of Lima, Montana",3.14,ml,152,0
+1795419381052,"181 km NE of Lospalos, Timor Leste",5.4,mww,449,0
+1795418456372,"93 km SE of Chignik, Alaska",2.7,ml,112,0
+1795416436960,"1 km NW of Isola, Mississippi",3.43,md,193,0
+1795415546310,"96 km WSW of Karluk, Alaska",2.7,ml,112,0
+1795415312358,"109 km E of Bitung, Indonesia",4.7,mb,340,0
+1795411061410,"5 km WSW of Manhattan Beach, CA",3.31,ml,509,0
+1795410943178,"218 km ENE of Lospalos, Timor Leste",4.3,mb,284,0
+1795407499641,"159 km ESE of Kokopo, Papua New Guinea",5.0,mb,385,0
+1795404720575,"48 km NE of Chase, Alaska",2.7,ml,112,0
+1795403272031,Vanuatu region,4.9,mb,369,0
+1795401658052,Vanuatu region,6.5,mww,650,1
+1795400744990,"15 km NW of Pinnacles, CA",2.51,md,97,0
+1795400099561,"39 km NW of Kuqa, China",4.9,mb,369,0
+1795392938606,"69 km SE of Pope-Vannoy Landing, Alaska",2.6,ml,104,0
+1795392480906,"221 km NE of Bitung, Indonesia",4.7,mb,340,0
+1795391444048,"226 km NW of Tobelo, Indonesia",4.7,mb,340,0
+1795390969074,"33 km WSW of Pánormos, Greece",4.2,mb,271,0
+1795390256600,"9 km NW of Pinnacles, CA",2.8,md,121,0
+1795389856401,"85 km W of Akhiok, Alaska",2.7,ml,112,0
+1795384695571,"170 km WNW of Port-Olry, Vanuatu",4.9,mb,369,0
+1795384052112,"54 km NNE of Calama, Chile",4.5,mb,312,0
+1795383331763,"9 km N of Carhuamayo, Peru",5.4,mb,456,0
+1795382783560,"55 km S of Whites City, New Mexico",2.5,ml,96,0
+1795382517224,"71 km S of Ivanof Bay, Alaska",2.5,ml,96,0
+1795381181943,south of the Fiji Islands,4.5,mb,312,0
+1795380892753,"25 km WSW of Isangel, Vanuatu",4.7,mb,340,0
+1795377209590,"26 km WNW of Yachats, Oregon",2.73,ml,115,0
+1795377028580,"55 km W of Petrolia, CA",2.98,ml,137,0
+1795370604057,south of the Fiji Islands,4.6,mb,326,0
+1795369571214,"6 km NW of Tsunagi, Japan",4.4,mb,298,0
+1795366233642,"168 km NNE of Yakutat, Alaska",2.8,ml,121,0
+1795363860178,"32 km NE of Igiugig, Alaska",2.6,ml,104,0
+1795363229622,"54 km NW of Toyah, Texas",2.8,ml,121,0
+1795361121414,"52 km W of Happy Valley, Alaska",3.6,ml,199,0
+1795359946361,"55 km S of Kūh Sefīd, Iran",4.6,mb,326,0
+1795359859510,"11 km WSW of Dyersburg, Tennessee",3.07,md,174,0
+1795349207280,"82 km N of Culebra, Puerto Rico",3.07,md,145,0
+1795344367004,south of the Fiji Islands,4.9,mb,369,0
+1795339097540,"153 km S of Cordova, Alaska",2.9,ml,129,0
+1795338508009,"45 km SE of Ürümqi, China",5.1,mb,400,0
+1795334080056,"224 km NE of Bitung, Indonesia",5.4,mb,449,0
+1795332085995,"151 km S of Cordova, Alaska",3.2,ml,158,0
+1795331569426,"57 km ESE of Dabajuro, Venezuela",4.4,mb,298,0
+1795331218521,"246 km ESE of Sarangani, Philippines",4.9,mb,369,0
+1795326718624,"15 km NNE of Carhuamayo, Peru",5.0,mww,390,0
+1795326069161,"32 km SSE of Hope, New Mexico",2.8,ml,121,0
+1795324743676,"16 km SSE of Soldotna, Alaska",2.6,ml,104,0
+1795324196350,"57 km N of Pucallpa, Peru",4.3,mb,284,0
+1795322039407,"86 km WNW of Aleneva, Alaska",2.5,ml,96,0
+1795319653821,"196 km WSW of Adak, Alaska",3.6,ml,199,0
+1795306810581,"72 km WNW of Aleneva, Alaska",2.9,ml,129,0
+1795302965571,"60 km WNW of Abepura, Indonesia",4.6,mb,326,0
+1795302586835,south of the Fiji Islands,4.3,mb,284,0
+1795298333882,"1 km ENE of Amaroni, Italy",4.1,mb,259,0
+1795297591560,"11 km WNW of Calipatria, CA",2.59,ml,103,0
+1795296354969,"26 km WSW of Qarah Ẕīā’ od Dīn, Iran",4.5,mb,312,0
+1795292498630,"11 km NW of Pinnacles, CA",2.89,md,129,0
+1795290746507,"21 km SSE of Solok, Indonesia",4.2,mb,271,0
+1795290274265,"193 km WSW of Adak, Alaska",4.0,ml,246,0
+1795287784170,"88 km WNW of El Aguilar, Argentina",4.9,mb,369,0
+1795282862389,"15 km WSW of Ollagüe, Chile",4.3,mb,284,0
+1795282244504,"68 km SSE of Tateyama, Japan",4.6,mb,326,0
+1795281261477,"0 km SSW of La Colorada, Panama",4.5,mb,312,0
+1795280005513,"149 km S of Cordova, Alaska",2.6,ml,104,0
+1795277839204,"288 km WSW of Adak, Alaska",3.6,ml,199,0
+1795277079659,"44 km S of Calama, Chile",4.0,mb,246,0
+1795276567655,"237 km NNE of Lospalos, Timor Leste",4.1,mb,259,0
+1795276429910,"1 km SW of Pāhala, Hawaii",2.87,ml,127,0
+1795276424550,"1 km N of Pāhala, Hawaii",2.84,ml,124,0
+1795273213140,"18 km ESE of La Romana, Dominican Republic",4.6,md,328,0
+1795270172280,"10 km SSE of San Pedro, CA",3.31,ml,336,0
+1795267563324,"200 km S of Akhiok, Alaska",4.2,ml,271,0
+1795264880670,"6 km NNW of Delta, B.C., MX",2.62,ml,106,0
+1795257933230,"238 km SW of Yanglong, China",5.9,mb,650,0
+1795255831043,"36 km SSE of Jurm, Afghanistan",4.4,mb,298,0
+1795255745474,"112 km SSE of Tateyama, Japan",5.2,mb,416,0
+1795254129120,"105 km NE of Lospalos, Timor Leste",6.8,mww,726,0
+1795251868860,"10 km NW of Pinnacles, CA",2.67,md,110,0
+1795251213240,"48 km NE of Christiansted, U.S. Virgin Islands",3.22,md,160,0
+1795247326640,"66 km S of Ugashik, Alaska",3.0,ml,138,0
+1795245644218,"65 km NNW of Port-Vila, Vanuatu",4.9,mb,369,0
+1795245192240,"0 km WSW of Lea Hill, Washington",3.41,ml,489,0
+1795243880527,"17 km S of Iztapa, Guatemala",4.1,mb,259,0
+1795242193420,"8 km W of Orocovis, Puerto Rico",2.7,md,112,0
+1795241376128,"36 km N of Dawson City, Canada",2.8,ml,121,0
+1795239408610,"31 km WSW of Petrolia, CA",2.64,md,107,0
+1795239019465,"74 km SSE of Ugashik, Alaska",2.9,ml,129,0
+1795237924898,"0 km NE of Carhuamayo, Peru",5.0,mb,389,0
+1795235354724,"28 km NNE of Chenega, Alaska",4.1,ml,264,1
+1795228447347,"47 km NW of Ninilchik, Alaska",3.5,ml,189,0
+1795227877289,Reykjanes Ridge,4.9,mb,369,0
+1795224379109,Reykjanes Ridge,4.9,mb,369,0
+1795224249274,"38 km NE of Calama, Chile",4.7,mwr,340,0
+1795221515700,"10 km E of Cholame, CA",2.84,md,124,0
+1795221168295,"41 km SE of Petropavlovsk-Kamchatsky, Russia",4.4,mb,298,0
+1795220487300,"3 km ENE of Nanawale Estates, Hawaii",2.51,md,97,0
+1795219803910,"41 km ENE of Maneadero, B.C., MX",2.7,ml,112,0
+1795219761810,"7 km ENE of Carhuamayo, Peru",6.7,mww,773,1
+1795219635701,"30 km WSW of Denali Park, Alaska",2.8,ml,121,0
+1795217853534,"115 km W of Illapel, Chile",4.4,mwr,298,0
+1795214079096,"113 km ESE of Pangai, Tonga",4.9,mb,369,0
+1795213933976,"65 km W of Ollagüe, Chile",4.2,mwr,271,0
+1795213880701,Reykjanes Ridge,4.4,mb,298,0
+1795213846671,Reykjanes Ridge,4.4,mb,298,0
+1795206591959,Reykjanes Ridge,4.4,mb,298,0
+1795201646037,"159 km SSW of Akhiok, Alaska",2.8,ml,121,0
+1795201494178,"192 km SW of Bluff, New Zealand",4.2,mb,271,0
+1795200311073,"59 km SSW of Cantwell, Alaska",3.5,ml,188,0
+1795197195442,"32 km NE of Port-Olry, Vanuatu",5.1,mb,400,0
+1795193567200,"91 km N of Charlotte Amalie, U.S. Virgin Islands",3.42,md,180,0
+1795192873832,"109 km NNE of Lospalos, Timor Leste",4.4,mb,298,0
+1795187512850,"39 km SE of Denali National Park, Alaska",2.7,ml,112,0
+1795187238700,"5 km NW of Pinnacles, CA",2.68,md,114,0
+1795184175225,"94 km W of Illapel, Chile",4.7,mb,340,0
+1795183334679,"202 km S of Akhiok, Alaska",3.0,ml,138,0
+1795183057989,"18 km ENE of Tilden, Texas",2.9,ml,129,0
+1795180144057,"15 km SSW of Balangonan, Philippines",5.1,mb,402,0
+1795173935140,"1 km NW of Commerce, CA",3.94,mw,639,1
+1795173151820,"16 km SSW of Volcano, Hawaii",2.77,ml,118,0
+1795172472679,"76 km E of Adak, Alaska",3.8,mb,222,0
+1795172275711,"70 km SSE of Kokhanok, Alaska",2.9,ml,129,0
+1795171975274,Fiji region,4.4,mb,298,0
+1795171782770,"6 km NW of Pinnacles, CA",2.52,md,99,0
+1795171724362,southeast of the Loyalty Islands,4.7,mb,340,0
+1795170601069,southeast of the Loyalty Islands,5.0,mww,385,0
+1795169774294,"40 km SSE of Koróni, Greece",4.6,mb,326,0
+1795164486974,"12 km NNW of Nikiski, Alaska",3.4,ml,178,0
+1795164251644,Carlsberg Ridge,5.4,mww,449,0
+1795164174187,Carlsberg Ridge,4.7,mb,340,0
+1795163767388,"25 km NE of Beluga, Alaska",2.8,ml,121,0
+1795163764140,"10 km NW of Pinnacles, CA",2.71,md,114,0
+1795163727320,"10 km NW of Pinnacles, CA",3.06,ml,145,0
+1795163128950,"8 km NW of Pinnacles, CA",2.59,md,103,0
+1795162485100,"6 km NW of Pinnacles, CA",2.55,md,100,0
+1795161517920,"6 km NW of Pinnacles, CA",2.54,md,99,0
+1795161426280,"7 km NW of Pinnacles, CA",2.6,md,104,0
+1795161211836,"128 km SSE of Sand Point, Alaska",3.2,ml,158,0
+1795160787620,"9 km NW of Pinnacles, CA",2.55,md,101,0
+1795159271480,"5 km NW of Pinnacles, CA",2.68,md,111,0
+1795159186810,"9 km NW of Pinnacles, CA",2.64,md,107,0
+1795158865490,"6 km NW of Pinnacles, CA",3.38,ml,187,0
+1795157834030,"8 km NW of Pinnacles, CA",2.53,md,99,0
+1795157553440,"10 km NNW of Pinnacles, CA",2.96,ml,144,0
+1795157356340,"10 km NW of Pinnacles, CA",4.98,mw,1002,1
+1795155164187,"53 km W of Happy Valley, Alaska",3.0,ml,138,0
+1795155130440,"10 km NW of Pinnacles, CA",3.31,ml,180,0
+1795154003950,"9 km NW of Pinnacles, CA",3.11,ml,151,0
+1795152593930,"46 km NNE of Pa‘auilo, Hawaii",2.51,ml,98,0
+1795152010960,"41 km NW of San Antonio, Puerto Rico",2.82,md,122,0
+1795151865106,"54 km W of Madang, Papua New Guinea",4.9,mb,370,0
+1795149439014,"42 km WNW of Nanwalek, Alaska",2.6,ml,104,0
+1795143438070,"24 km ESE of Calingasta, Argentina",4.8,mb,356,0
+1795137607698,"293 km S of Ōyama, Japan",4.2,mb,271,0
+1795135754102,southeast of the Loyalty Islands,5.6,mww,482,0
+1795127646053,"98 km SSW of Kaktovik, Alaska",2.9,ml,129,0
+1795124973219,"236 km W of Tual, Indonesia",4.5,mb,312,0
+1795121367510,"42 km WSW of Olancha, CA",2.52,ml,98,0
+1795119836618,"69 km E of Port Alsworth, Alaska",2.9,ml,129,0
+1795118869383,South Georgia Island region,5.3,mb,432,0
+1795118829754,central East Pacific Rise,5.0,mb,385,0
+1795113679631,"13 km WNW of Xichang, China",4.9,mb,369,0
+1795112978630,"122 km NNE of Punta Cana, Dominican Republic",3.29,md,167,0
+1795112341020,"108 km NNE of Punta Cana, Dominican Republic",3.44,md,182,0
+1795111786530,"99 km WSW of Illapel, Chile",5.1,mww,400,0
+1795102700197,"170 km NW of Panguna, Papua New Guinea",4.3,mb,284,0
+1795096701570,"19 km SW of Toms Place, CA",2.98,md,137,0
+1795095874105,"40 km ESE of Chiniak, Alaska",2.6,ml,104,0
+1795093763372,"24 km SW of Ackerly, Texas",3.2,ml,158,0
+1795093588440,"53 km ESE of Cruz Bay, U.S. Virgin Islands",3.04,md,142,0
+1795093522466,"65 km SSW of Atka, Alaska",4.9,mb,369,0
+1795093492568,"26 km WSW of Cantwell, Alaska",3.2,ml,158,0
+1795093473345,South Sandwich Islands region,4.7,mb,340,0
+1795091066160,"19 km SW of Toms Place, CA",2.75,ml,116,0
+1795085587767,"31 km WSW of Rabaul, Papua New Guinea",5.0,mb,385,0
+1795084614782,Fiji region,4.3,mb,284,0
+1795079293359,"92 km W of San Juan, Peru",4.7,mb,340,0
+1795079194910,"48 km N of Charlotte Amalie, U.S. Virgin Islands",4.25,md,294,0
+1795077325665,Scotia Sea,4.2,mb,271,0
+1795073682544,"50 km SSE of Denali National Park, Alaska",2.5,ml,96,0
+1795071959188,"70 km S of Ugashik, Alaska",2.5,ml,96,0
+1795070964699,"67 km S of Ugashik, Alaska",3.7,ml,211,0
+1795070411370,"42 km N of Kernville, CA",3.51,ml,193,0
+1795068626169,"21 km SSE of Ikungi, Tanzania",4.3,mb,284,0
+1795068166870,"7 km SSW of Primo Tapia, B.C., MX",2.67,ml,110,0
+1795067366623,"23 km SSE of Guayaquil, Ecuador",4.8,mww,361,0
+1795062130307,"25 km S of Port Graham, Alaska",3.0,ml,138,0
+1795054283115,"36 km NNE of Kilimatinde, Tanzania",4.9,mb,370,0
+1795052088394,"130 km W of Teluk Dalam, Indonesia",5.2,mww,416,0
+1795051773145,"40 km NNE of Kilimatinde, Tanzania",4.8,mww,355,0
+1795046721480,"15 km NNE of Milford, Utah",2.78,ml,119,0
+1795045471790,"31 km SE of Esperanza, Puerto Rico",2.55,md,100,0
+1795045161280,"18 km ENE of Borrego Springs, CA",3.36,ml,189,0
+1795039612958,"11 km SSW of Santa Gertrudis Miramar, Mexico",4.8,mb,354,0
+1795037327088,"169 km S of Attu Station, Alaska",5.2,mww,416,0
+1795034319129,"134 km SW of Lorengau, Papua New Guinea",4.7,mb,340,0
+1795033854635,"12 km SSE of Jimalalud, Philippines",4.4,mb,298,0
+1795029675136,Pacific-Antarctic Ridge,5.2,mb,416,0
+1795029263203,Pacific-Antarctic Ridge,6.0,mww,554,0
+1795027766640,"14 km N of Susanville, CA",2.55,md,100,0
+1795027613085,"20 km SSW of Ollagüe, Chile",4.5,mb,312,0
+1795025281097,"46 km SE of Ikungi, Tanzania",4.8,mww,355,0
+1795025251356,"44 km NNE of Kilimatinde, Tanzania",4.3,mb,285,0
+1795022543428,"4 km N of Tsunagi, Japan",5.3,mww,436,0
+1795019607127,"9 km NW of Seeley Lake, Montana",2.7,ml,112,0
+1795019102070,"83 km W of Lincoln City, Oregon",2.5,ml,96,0
+1795019067988,off the coast of Oregon,4.2,mb,271,0
+1795018011220,"149 km SSW of Merizo Village, Guam",5.3,mb,432,0
+1795010325390,"91 km SW of San Clemente Is. (NW tip), CA",3.3,ml,168,0
+1795010209271,"33 km SE of Mina, Nevada",2.85,ml,125,0
+1795009775949,"64 km ESE of Sand Point, Alaska",2.8,ml,121,0
+1795007118670,"49 km W of Petrolia, CA",2.93,md,132,0
+1795006775547,"95 km SSW of Unalaska, Alaska",3.1,ml,148,0
+1795005967775,"3 km N of Skwentna, Alaska",3.3,ml,168,0
+1795004876075,"137 km WSW of Adak, Alaska",4.0,mb,246,0
+1795000257037,West Chile Rise,4.9,mb,369,0
+1794999958520,"73 km E of Chignik, Alaska",2.8,ml,121,0
+1794998200316,"211 km W of Adak, Alaska",3.4,ml,178,0
+1794994992688,"42 km SSW of Adak, Alaska",3.0,ml,138,0
+1794994620617,"86 km NW of Ryōtsu-minato, Japan",5.2,mb,416,0
+1794994384132,"62 km E of Port Alsworth, Alaska",2.7,ml,112,0
+1794992550783,"62 km ENE of Nikolai, Alaska",2.6,ml,104,0
+1794983706360,"42 km SSE of Denali National Park, Alaska",2.5,ml,96,0
+1794982062780,"85 km WNW of San Juan, Peru",5.9,mww,537,0
+1794979661920,"96 km SW of San Clemente Is. (NW tip), CA",3.94,mw,240,0
+1794979543280,Galapagos Triple Junction region,5.2,mb,416,0
+1794979495060,"67 km NNE of Ruteng, Indonesia",4.8,mb,354,0
+1794978946893,"92 km NE of Lime Village, Alaska",2.5,ml,96,0
+1794977940780,south of the Fiji Islands,4.4,mb,298,0
+1794977351633,"95 km SSE of Tmourghout, Morocco",4.1,mb,259,0
+1794976892015,"40 km N of Ruteng, Indonesia",5.8,mww,518,0
+1794975695658,"54 km NNE of Ruteng, Indonesia",5.2,mb,416,0
+1794973354269,"99 km ESE of Madang, Papua New Guinea",5.8,mww,519,0
+1794973190917,"10 km W of Healy, Alaska",2.6,ml,104,0
+1794972238023,"134 km ENE of Nabire, Indonesia",4.8,mb,354,0
+1794970893114,"11 km SW of Weston, Colorado",2.6,ml,104,0
+1794969976700,"47 km S of Boca de Yuma, Dominican Republic",4.06,md,255,0
+1794968576671,"150 km SW of Merizo Village, Guam",5.8,mww,520,0
+1794967682278,"179 km W of Adak, Alaska",3.1,ml,148,0
+1794964558314,"117 km SSE of Sand Point, Alaska",2.9,ml,129,0
+1794963771682,"63 km SE of Denali National Park, Alaska",2.7,ml,112,0
+1794962936305,"17 km ESE of Comandău, Romania",5.3,mww,617,0
+1794962791418,"7 km SE of Karakenja, Tajikistan",5.3,mb,432,0
+1794961582809,"29 km S of Glacier View, Alaska",2.8,ml,121,0
+1794957933527,Owen Fracture Zone region,4.5,mb,312,0
+1794957286603,"103 km N of Akutan, Alaska",3.0,ml,138,0
+1794955925954,"10 km ESE of Metahāra, Ethiopia",4.6,mb,326,0
+1794953967818,"51 km SSW of Nanwalek, Alaska",2.9,ml,129,0
+1794948332531,"143 km SSE of False Pass, Alaska",3.5,ml,188,0
+1794947128385,"209 km SSE of Chiniak, Alaska",3.5,ml,188,0
+1794946664940,"133 km SSE of False Pass, Alaska",3.1,ml,148,0
+1794946348569,"35 km WSW of Palauig, Philippines",4.4,mb,298,0
+1794945529043,"45 km SSE of Unalaska, Alaska",2.8,ml,121,0
+1794941440298,"12 km SE of Pocsi, Peru",4.1,mb,259,0
+1794939319134,"26 km NW of Port-Vila, Vanuatu",4.5,mb,312,0
+1794938552376,"1 km NW of Macaracas, Panama",4.3,mb,286,0
+1794935562571,"83 km ENE of Ugashik, Alaska",3.0,ml,138,0
+1794933794202,Fiji region,4.3,mb,284,0
+1794933774346,"192 km W of Langlois, Oregon",3.3,ml,168,0
+1794933494100,"15 km SE of Deering, Alaska",2.7,ml,112,0
+1794933358497,"141 km NW of Kavieng, Papua New Guinea",4.8,mb,354,0
+1794933008931,"94 km SSE of Sand Point, Alaska",2.8,ml,121,0
+1794930567642,"135 km S of Vilyuchinsk, Russia",4.9,mb,369,0
+1794930528868,"102 km ENE of Ozernovskiy, Russia",4.9,mb,369,0
+1794929948661,"5 km NE of Bachajón, Mexico",4.4,mb,298,0
+1794928779728,"249 km WSW of Adak, Alaska",4.0,mb,246,0
+1794927617137,"86 km SSW of Atocha, Bolivia",4.2,mb,271,0
+1794927549523,"21 km ESE of Khorugh, Tajikistan",4.4,mb,298,0
+1794927240982,"11 km SE of Shahrud, Iran",4.4,mb,298,0
+1794925527642,"14 km SSW of Falls City, Texas",3.0,ml,139,0
+1794925236814,south of the Kermadec Islands,5.2,mww,416,0
+1794922451233,"41 km SSW of Akhiok, Alaska",2.5,ml,96,0
+1794920404790,"29 km ENE of Cruz Bay, U.S. Virgin Islands",3.36,md,174,0
+1794919643994,"29 km E of Chenega, Alaska",2.8,ml,121,0
+1794918376641,"95 km W of Alotau, Papua New Guinea",4.5,mb,312,0
+1794917186061,"31 km N of Skwentna, Alaska",2.5,ml,96,0
+1794915370963,"66 km ENE of Port Alsworth, Alaska",2.6,ml,104,0
+1794914126741,"141 km NE of Lospalos, Timor Leste",4.2,mb,271,0
+1794913979760,"8 km WNW of Piti Village, Guam",4.5,mb,314,0
+1794911578639,"173 km ENE of Noda, Japan",4.9,mb,369,0
+1794911448773,"43 km NW of Oxford, New Zealand",4.9,mb,382,0
+1794909298660,"15 km E of Pearsall, Texas",2.9,ml,129,0
+1794908616714,"36 km WNW of Skwentna, Alaska",2.9,ml,129,0
+1794905929583,"102 km SE of False Pass, Alaska",2.7,ml,112,0
+1794903959326,"35 km ENE of Miguel Ahumada, Mexico",3.8,ml,223,0
+1794901386442,"75 km W of Akhiok, Alaska",2.6,ml,104,0
+1794901147028,"84 km S of Unalaska, Alaska",3.6,ml,199,0
+1794899614380,"14 km NNE of Milford, Utah",2.63,ml,106,0
+1794899147338,"64 km S of Akutan, Alaska",2.6,ml,104,0
+1794897741802,"15 km NE of Kaltag, Alaska",2.5,ml,96,0
+1794897125466,"11 km ESE of Silver Springs, Nevada",3.01,ml,143,0
+1794894705020,"58 km WNW of Malfa, Italy",4.2,mb,271,0
+1794894476509,south of the Fiji Islands,4.4,mb,298,0
+1794891410638,"15 km WSW of Akhiok, Alaska",3.6,ml,199,0
+1794890573861,"60 km WNW of Anchor Point, Alaska",3.3,ml,168,0
+1794889197480,"99 km NNE of Punta Cana, Dominican Republic",3.39,md,177,0
+1794887552360,"26 km E of Port-Olry, Vanuatu",4.9,mb,369,0
+1794882586651,"87 km SSE of Chenega, Alaska",2.7,ml,112,0
+1794880817654,"137 km SSE of Kirakira, Solomon Islands",5.0,mb,385,0
+1794880566600,"51 km S of Denali National Park, Alaska",3.9,ml,234,0
+1794875499163,"94 km SSE of Akutan, Alaska",2.8,ml,121,0
+1794870325904,"9 km SSW of Willow, Alaska",2.5,ml,96,0
+1794867685970,"130 km N of Caluula, Somalia",4.6,mb,326,0
+1794867452469,"121 km WSW of Tual, Indonesia",4.4,mb,298,0
+1794866158036,"153 km SSE of Isangel, Vanuatu",4.7,mb,340,0
+1794863839700,"16 km NW of Lopez Point, CA",2.79,md,121,0
+1794863480488,"149 km WSW of Tual, Indonesia",6.6,mww,674,0
+1794858715895,"52 km W of Valparaíso, Chile",4.4,mb,298,0
+1794858294003,"103 km WSW of Changuillo, Peru",4.5,mb,312,0
+1794857580666,"144 km NW of Kavieng, Papua New Guinea",4.6,mb,326,0
+1794857194776,"77 km WSW of Changuillo, Peru",4.7,mb,340,0
+1794856040534,"63 km NNE of Stony River, Alaska",3.1,ml,148,0
+1794852496110,"64 km SSE of Unalaska, Alaska",3.6,ml,199,0
+1794852145427,"43 km S of Jurm, Afghanistan",4.1,mb,259,0
+1794846452660,"Rat Islands, Aleutian Islands, Alaska",3.9,ml,234,0
+1794846198453,"28 km SW of Changuillo, Peru",4.8,mb,355,0
+1794845805265,"95 km WSW of Changuillo, Peru",5.4,mww,449,0
+1794843710996,"11 km SSE of Stonewall Gap, Colorado",2.8,ml,121,0
+1794837750072,"164 km W of Trinidad, California",3.2,ml,158,0
+1794835945974,"113 km ESE of Wadomari, Japan",4.6,mb,326,0
+1794835833980,"166 km N of Caluula, Somalia",4.8,mb,354,0
+1794835521731,"78 km S of Severo-Kuril’sk, Russia",4.5,mb,312,0
+1794832569545,"55 km ENE of Pedro Bay, Alaska",3.7,ml,211,0
+1794831859280,"39 km ESE of Yakutat, Alaska",2.8,ml,121,0
+1794824475655,"15 km ESE of Ninilchik, Alaska",2.6,ml,104,0
+1794813254483,"68 km S of Sarangani, Philippines",5.0,mb,385,0
+1794812889864,"297 km SSE of Amahai, Indonesia",4.3,mb,284,0
+1794811654187,"124 km NE of Quiaca, Peru",4.3,mb,284,0
+1794810765483,"20 km NNW of Lime Village, Alaska",2.7,ml,112,0
+1794806198125,"45 km E of Denali National Park, Alaska",2.5,ml,96,0
+1794803612584,"11 km NNE of Susitna North, Alaska",2.5,ml,96,0
+1794803051718,"20 km NW of Anamizu, Japan",5.4,mww,449,0
+1794798493597,"18 km ESE of Pearsall, Texas",2.5,ml,96,0
+1794798386067,"271 km SE of Chiniak, Alaska",3.6,ml,199,0
+1794791340831,"2 km SW of Santa María Huazolotitlán, Mexico",4.4,mb,298,0
+1794789721020,"66 km W of Kalaoa, Hawaii",3.09,ml,147,0
+1794787595587,"16 km WSW of Susitna, Alaska",2.7,ml,112,0
+1794783861749,"72 km WNW of Abra Pampa, Argentina",4.4,mb,298,0
+1794782299154,"141 km ESE of Petropavlovsk-Kamchatsky, Russia",4.8,mb,354,0
+1794779328120,"7 km S of Knik, Alaska",2.7,ml,112,0
+1794778641082,"44 km S of Jurm, Afghanistan",4.9,mww,369,0
+1794776429551,"87 km SSE of Ugashik, Alaska",2.5,ml,96,0
+1794775916298,"256 km SSE of Ambon, Indonesia",5.0,mb,385,0
+1794773334808,"43 km SSE of King Salmon, Alaska",2.6,ml,104,0
+1794772687107,"18 km SE of Silver Springs, Nevada",3.05,ml,145,0
+1794772058312,"18 km NW of Old Harbor, Alaska",2.5,ml,96,0
+1794771519971,"102 km ESE of Sarangani, Philippines",4.4,mb,298,0
+1794768741570,"26 km E of Estique, Peru",4.2,mb,271,0
+1794767132230,"155 km SE of Chignik, Alaska",2.6,ml,104,0
+1794764916959,"74 km N of Pārūn, Afghanistan",5.0,mww,385,0
+1794762829968,"20 km ENE of Susitna North, Alaska",3.5,ml,190,0
+1794758774983,"273 km W of Tual, Indonesia",4.2,mb,271,0
+1794757964490,"114 km NNE of Punta Cana, Dominican Republic",3.4,md,178,0
+1794757274978,"169 km NW of Gorontalo, Indonesia",5.1,mb,400,0
+1794756349835,"10 km WSW of Manley Hot Springs, Alaska",2.5,ml,96,0
+1794753123788,"27 km SW of Minbu, Burma (Myanmar)",4.4,mb,298,0
+1794752996330,"3 km N of Capulin, New Mexico",3.0,ml,140,0
+1794752430226,"60 km SE of Cantwell, Alaska",2.6,ml,104,0
+1794752272535,"27 km ESE of Union, Philippines",4.6,mb,326,0
+1794750095701,"9 km E of Union, Philippines",5.5,mb,472,0
+1794749076555,"69 km NNW of Chalkyitsik, Alaska",3.4,ml,178,0
+1794747098361,"131 km E of Chignik, Alaska",2.6,ml,104,0
+1794742148070,"6 km E of Calumet, Oklahoma",3.06,ml,146,0
+1794741836246,"41 km SSW of La Tirana, Chile",4.1,mwr,262,0
+1794738551748,"55 km W of Valparaíso, Chile",4.1,mwr,259,0
+1794734690714,"22 km ESE of Ruteng, Indonesia",4.4,mb,298,0
+1794734327165,"56 km E of Pedro Bay, Alaska",2.7,ml,112,0
+1794732606639,south of the Fiji Islands,4.4,mb,298,0
+1794732548463,"36 km NE of Mountain Home, Idaho",2.5,ml,96,0
+1794730506997,"64 km W of Nanwalek, Alaska",2.5,ml,96,0
+1794728197211,"92 km NW of Houma, Tonga",4.7,mb,340,0
+1794726077140,"96 km N of Charlotte Amalie, U.S. Virgin Islands",3.65,md,205,0
+1794722053361,"61 km N of Petersville, Alaska",2.5,ml,96,0
+1794719740008,"11 km E of Chenega, Alaska",3.9,ml,242,0
+1794719702697,Fiji region,5.5,mww,465,0
+1794717508360,"75 km SSE of San Pedro de Atacama, Chile",4.3,mb,284,0
+1794717134160,"6 km E of Calumet, Oklahoma",3.44,ml,196,0
+1794716627869,"115 km NW of San Antonio de los Cobres, Argentina",4.4,mb,298,0
+1794715199682,"19 km NW of Albardón, Argentina",4.8,mb,354,0
+1794714829679,"75 km W of Ollagüe, Chile",4.3,mb,284,0
+1794711764244,"Rat Islands, Aleutian Islands, Alaska",4.2,mb,271,0
+1794711702502,"8 km WSW of Corredor, Costa Rica",4.3,mb,285,0
+1794709479644,"34 km SE of Malaga, New Mexico",3.0,ml,138,0
+1794709041755,"Off the coast of Aisen, Chile",4.3,mb,284,0
+1794706803000,"12 km NE of Enterprise, Utah",3.41,ml,325,0
+1794705989010,"89 km NE of Punta Cana, Dominican Republic",3.09,md,147,0
+1794700695776,"32 km SW of Nikolski, Alaska",2.9,ml,129,0
+1794698523473,"106 km WSW of Pistol River, Oregon",3.4,ml,178,0
+1794695604252,"196 km E of Atka, Alaska",3.2,ml,158,0
+1794695026411,east central Pacific Ocean,4.7,mb,340,0
+1794693618823,"35 km E of Chenega, Alaska",3.5,ml,189,0
+1794691460159,"25 km N of Ruteng, Indonesia",4.5,mb,312,0
+1794688825910,"14 km N of Quebradillas, Puerto Rico",2.87,md,127,0
+1794686939461,"98 km S of Sand Point, Alaska",2.7,ml,112,0
+1794685876764,"6 km W of Burning Man Earth, Nevada",2.99,ml,138,0
+1794681111599,"92 km S of Sand Point, Alaska",2.7,ml,112,0
+1794679441078,"24 km S of Yacuiba, Bolivia",4.7,mb,340,0
+1794678689113,"29 km NE of Dannevirke, New Zealand",4.3,mb,286,0
+1794675399533,"96 km SSE of Pondaguitan, Philippines",4.6,mb,326,0
+1794675379448,"100 km WSW of Adak, Alaska",2.6,ml,104,0
+1794674790832,"80 km SW of Adak, Alaska",2.9,ml,129,0
+1794674179635,"62 km WNW of San Antonio de los Cobres, Argentina",4.6,mb,326,0
+1794672908450,"20 km W of Pole Ojea, Puerto Rico",2.54,md,99,0
+1794672262205,"7 km SE of Tagbina, Philippines",4.9,mb,369,0
+1794670485270,"8 km W of Holtville, CA",2.74,ml,116,0
+1794670414140,"8 km W of Holtville, CA",2.86,ml,127,0
+1794669876287,"131 km SSW of Unalaska, Alaska",2.5,ml,96,0
+1794664439361,"204 km WSW of Adak, Alaska",3.1,ml,148,0
+1794663532959,"26 km NE of Skwentna, Alaska",2.5,ml,96,0
+1794662758258,"103 km SSW of Nikolski, Alaska",3.9,ml,234,0
+1794662258035,"144 km ESE of Nikolski, Alaska",2.6,ml,104,0
+1794662240799,south of the Kermadec Islands,4.9,mb,369,0
+1794659280653,"137 km SE of Petropavlovsk-Kamchatsky, Russia",4.5,mb,312,0
+1794654838380,"7 km W of Holtville, CA",2.95,ml,134,0
+1794654815870,"8 km W of Holtville, CA",2.55,ml,100,0
+1794654775090,"7 km W of Holtville, CA",2.97,ml,136,0
+1794654567950,"8 km W of Holtville, CA",3.01,ml,141,0
+1794654321700,"8 km W of Holtville, CA",2.65,ml,109,0
+1794654312268,"70 km SSW of Fīrūzābād, Iran",4.2,mb,271,0
+1794652662933,"90 km SE of King Cove, Alaska",2.7,ml,112,0
+1794648373032,northern Mid-Atlantic Ridge,5.5,mww,465,0
+1794647533222,"63 km SE of Akutan, Alaska",2.8,ml,121,0
+1794647296380,"29 km N of Hatillo, Puerto Rico",2.73,md,115,0
+1794645656956,"61 km NE of Nikolski, Alaska",3.1,ml,148,0
+1794645007520,"15 km WSW of Conconully, Washington",3.42,ml,212,0
+1794641951520,"113 km N of San Antonio, Puerto Rico",3.55,md,194,0
+1794641818103,"81 km SSE of Unalaska, Alaska",2.6,ml,104,0
+1794641099626,"southeast of Shikoku, Japan",4.1,mb,259,0
+1794640880158,"37 km SW of Chenega, Alaska",2.8,ml,121,0
+1794640746576,"109 km N of Yakutat, Alaska",2.7,ml,112,0
+1794639742520,"104 km NNE of Hihifo, Tonga",4.5,mb,312,0
+1794639486707,"23 km S of Denali National Park, Alaska",2.8,ml,121,0
+1794639479932,southeast of Easter Island,4.6,mb,326,0
+1794639146585,"State of Yap, Federated States of Micronesia",5.2,mb,416,0
+1794637999258,West Chile Rise,5.0,mww,385,0
+1794636695288,"194 km SSE of Akhiok, Alaska",2.8,ml,121,0
+1794632367508,"32 km SE of Kargil, India",4.0,mb,246,0
+1794632340633,western Indian-Antarctic Ridge,4.5,mb,312,0
+1794628963234,"13 km SSW of Skwentna, Alaska",2.6,ml,104,0
+1794627927019,"25 km NNW of Dhūlia, India",4.2,mb,272,0
+1794626306652,"54 km NW of San Antonio de los Cobres, Argentina",4.7,mb,340,0
+1794625169180,off the west coast of northern Sumatra,5.2,mb,416,0
+1794622867393,Fiji region,4.5,mb,312,0
+1794618051796,"17 km ENE of Tilden, Texas",2.7,ml,112,0
+1794615960006,"58 km S of Whites City, New Mexico",2.9,ml,129,0
+1794614303875,"22 km NE of Kinablangan, Philippines",4.5,mb,312,0
+1794614115232,"100 km WSW of Lebu, Chile",4.6,mb,326,0
+1794612638320,"153 km NW of Kavieng, Papua New Guinea",5.1,mb,400,0
+1794612379108,"98 km ENE of Ouzinkie, Alaska",4.1,ml,259,0
+1794612174402,"74 km S of Yudomari, Japan",4.6,mb,326,0
+1794611157912,"108 km E of Chignik, Alaska",2.6,ml,104,0
+1794607842124,south of the Kermadec Islands,4.9,mb,369,0
+1794605133084,"56 km S of Whites City, New Mexico",3.4,ml,178,0
+1794604795905,"33 km SSW of La Libertad, El Salvador",4.6,mb,327,0
+1794600396688,"70 km SSW of Kaktovik, Alaska",3.0,ml,138,0
+1794600101936,"14 km SW of Roncesvalles, Colombia",4.4,mb,298,0
+1794599361768,"153 km NW of Kavieng, Papua New Guinea",4.8,mww,354,0
+1794598997748,"9 km WSW of Chaparral, Colombia",4.5,mb,312,0
+1794596919475,"64 km ENE of Susitna North, Alaska",2.5,ml,96,0
+1794596647703,South Sandwich Islands region,5.1,mb,400,0
+1794596140754,south of the Fiji Islands,4.9,mb,369,0
+1794595011302,"53 km W of Nanwalek, Alaska",3.2,ml,158,0
+1794588930862,"63 km ESE of Sand Point, Alaska",3.4,ml,178,0
+1794588182131,"79 km WSW of Changuillo, Peru",5.8,mww,522,0
+1794587758400,"10 km SW of Guaymate, Dominican Republic",4.8,mb,363,0
+1794586671680,"79 km NE of Kuqa, China",5.2,mb,416,0
+1794584073470,"22 km WNW of Preston, Nevada",3.38,ml,176,0
+1794582628133,"16 km W of Preston, Nevada",3.55,ml,194,0
+1794579167843,West Chile Rise,5.2,mww,416,0
+1794573469644,"52 km NE of Santa Rosa, Peru",4.4,mb,298,0
+1794571977241,"12 km ESE of Baculin, Philippines",4.4,mb,298,0
+1794568692734,"59 km WSW of Houma, Tonga",4.8,mb,354,0
+1794568038054,"131 km ESE of Chignik, Alaska",2.6,ml,104,0
+1794567312777,"86 km NNE of Lagunas, Peru",4.5,mb,312,0
+1794565925619,"51 km ESE of Tournavista, Peru",4.4,mb,298,0
+1794565039293,"29 km WNW of Baghlān, Afghanistan",4.4,mb,298,0
+1794564456127,"66 km SSE of Farkhār, Afghanistan",4.1,mb,259,0
+1794563745053,southeast of the Loyalty Islands,4.9,mb,369,0
+1794563648807,"58 km S of Whites City, New Mexico",2.5,ml,96,0
+1794563239137,"10 km ESE of Nikiski, Alaska",3.3,ml,168,0
+1794562847087,"84 km E of Barcelona, Philippines",4.6,mb,326,0
+1794556917672,"19 km W of Río Grande, Panama",4.6,mb,326,0
+1794556535583,"143 km WSW of Fakfak, Indonesia",4.4,mb,298,0
+1794545373549,"27 km NNE of Labuan Lombok, Indonesia",4.7,mb,340,0
